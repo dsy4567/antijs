@@ -3,4 +3,3 @@ cmd.exe /c curl http://n.7k7kimg.cn/uploads/cdn/api/loginPlus/css/logFn.min.css 
 cmd.exe /c curl http://www.7k7kjs.cn/static/qike/play/js/play-fcm/play35.js -o play35.js
 cmd.exe /c curl http://www.7k7kjs.cn/static/qike/play/js/play-fcm/login-v3.js -o login-v3.js
 cmd.exe /c curl https://pic.my4399.com/re/cms/gamebox/js/fcmv2.js -o fcmv2.js
-cmd.exe /c curl "https://my.4399.com/webgame/home/ifs-web_sdk?uid=123321&appid=800207&sid=1&ip0.0.0.0&ref=news&noVistorPopup=1&needMyAuth=1" -o ifs-web_sdk.js

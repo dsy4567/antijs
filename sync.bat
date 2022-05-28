@@ -4,3 +4,4 @@ cmd.exe /c curl http://www.7k7kjs.cn/static/qike/play/js/play-fcm/play35.js -o p
 cmd.exe /c curl http://www.7k7kjs.cn/static/qike/play/js/play-fcm/login-v3.js -o login-v3.js
 cmd.exe /c curl https://pic.my4399.com/re/cms/gamebox/js/fcmv2.js -o fcmv2.js
 cmd.exe /c curl http://h5.7k7k.com/js/anti/Anti.js
+cmd.exe /c curl http://www.7k7kjs.cn/static/qike/play/js/play-fcm/login-v3.js -o login-v3.js
